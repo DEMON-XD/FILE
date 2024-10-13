@@ -7,5 +7,5 @@ apt install python
 pip install mechanize httpx requests bs4 lolcat 
 git close https://github.com/DEMON-XD/FILE
 cd FILE
-python file.py
+python newfilev5.py
 
